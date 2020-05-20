@@ -24,11 +24,3 @@ A lot of the ideas/code snippets are taken from the following repositories/blog 
 * Useful Techniques (hist normalization) - http://cs231n.stanford.edu/reports/2017/posters/524.pdf 
 * First place solution - https://github.com/btgraham/SparseConvNet/tree/kaggle_Diabetic_Retinopathy_competition 
 * PDF paper specifying details of implementation and code - https://kaggle2.blob.core.windows.net/forum-message-attachments/88655/2795/competitionreport.pdf 
-* Solving DR with opencv only - https://pdfs.semanticscholar.org/011f/f9edb213dbe82eae00c8dadae60c34788a94.pdf 
-* Blodvessel segmentation & other good feature extraction (one of the best)  - https://github.com/getsanjeev/retina-features#bloodvessel-segmentation 
-* Good Github link - http://jeffreydf.github.io/diabetic-retinopathy-detection/ 
-* IIT paper project (basic and easy explanation) https://cse.iitk.ac.in/users/cs365/2015/_submissions/mohitss/report.pdf 
-* Paper IOVS journal CNN (Retinal Lesion detection) - http://iovs.arvojournals.org/article.aspx?articleid=2670996 
-* Domain link explaining DR - http://www.glycosmedia.com/education/diabetic-retinopathy/diabetic-retinopathy-features-of-diabetes-intraretinal-haemorrhages/ 
-* Domain link explaining what are exudates - https://www.researchgate.net/post/Are_there_relationships_between_soft_exudates_hard_exudates_and_cotton_wool_spots_in_retinopathy2 
-* DR with Pytorch (VGG16 and Inception) - https://github.com/snehabhattacharya/diabetic_retinopathy
