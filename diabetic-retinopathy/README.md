@@ -17,10 +17,3 @@ As our first problem while learning basic image processing, we have tired to ide
 As a next step the project can be extended to build a classification model to predict whether person has DR or not
 
 [EDA and Feature generation](EDA_Preprocessing_v1.ipynb)
-
-
-## Credits and Useful links
-A lot of the ideas/code snippets are taken from the following repositories/blog posts. 
-* Useful Techniques (hist normalization) - http://cs231n.stanford.edu/reports/2017/posters/524.pdf 
-* First place solution - https://github.com/btgraham/SparseConvNet/tree/kaggle_Diabetic_Retinopathy_competition 
-* PDF paper specifying details of implementation and code - https://kaggle2.blob.core.windows.net/forum-message-attachments/88655/2795/competitionreport.pdf 
