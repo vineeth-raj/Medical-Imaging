@@ -23,11 +23,3 @@ Just follow the instruction set written in the repository to get the data. We ha
 [EDA and Segmentation using opencv](0_SkinLesionSegmentation_EDA_preprocessing.ipynb)
 
 [Model based on SegNet Architecture](1_SkinLesionSegmentation.ipynb)
-
-
-## Credits and Useful links
-A lot of the ideas/code snippets are taken from the following repositories/blog posts. 
-* List of submitted abstracts - https://challenge2018.isic-archive.com/leaderboards/ 
-* Non dl approach paper - https://arxiv.org/ftp/arxiv/papers/1807/1807.07001.pdf 
-* Blog - https://www.linkedin.com/pulse/skin-lesion-segmentation-using-deep-learning-keras-isic-sander 
-* Data Augmentation - https://github.com/fabioperez/skin-data-augmentation
