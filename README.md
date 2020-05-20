@@ -6,6 +6,6 @@
 
 
 ## Content
-1. [Ultrasound Nerve Segmentation](https://github.com/deepSattva/medicalimaging-pytorch/tree/master/ultrasound-nervesegmentation)
-2. [Diabetic Retinopathy](https://github.com/deepSattva/medicalimaging-pytorch/tree/master/diabeticretinopathy)
-3. [SkinLesionSegmentation](https://github.com/deepSattva/medicalimaging-pytorch/tree/master/skinlesionsegmentation)
+1. [Ultrasound Nerve Segmentation](https://github.com/vineeth-raj/Medical-Imaging/tree/master/ultrasound-nerve-segmentation)
+2. [Diabetic Retinopathy](https://github.com/vineeth-raj/Medical-Imaging/tree/master/diabetic-retinopathy)
+3. [SkinLesionSegmentation](https://github.com/vineeth-raj/Medical-Imaging/tree/master/skin-lesion-segmentation)
